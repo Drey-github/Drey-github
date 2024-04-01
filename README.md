@@ -1,5 +1,6 @@
 # 欢迎来到Drey的世界 👋
 ### 你是第<div align="center"> <img src="https://profile-counter.glitch.me/Drey-github/count.svg" /> </div>个来这里的人
+不想看?[^1]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World;Byebye+World)](https://git.io/typing-svg)
 
@@ -12,3 +13,4 @@
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drey-github&theme=xcode" /> </div>
 
 
+[^1]:# 在~~也不~~见
