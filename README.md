@@ -12,5 +12,13 @@
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drey-github&theme=xcode" /> </div>
 
+## 联系方式
+手机号：
+
+    18724004285
+
+邮箱：
+
+    1090192587@qq.com
 
 [^1]:# 在~~也不~~见
