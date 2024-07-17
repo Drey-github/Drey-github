@@ -17,6 +17,9 @@
 邮箱:(outlook)
     
     dairui918@outlook.com
+邮箱:(gmail)
+    
+    dairui0918@gmail.com
 
 ## GitHub数据
 
